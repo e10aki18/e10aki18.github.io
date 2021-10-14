@@ -22,6 +22,6 @@
 /*When the hovering the mouse over a link, an underline appears*/
         a:hover {
             text-decoration-line:underline;
-            font-size: 125px;
+            font-size: 150px;
             font-family: monospace;
             }
