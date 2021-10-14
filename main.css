@@ -1,0 +1,24 @@
+/*Typeface for the paragraphs*/
+        p {font-family: monospace;
+            text-align: center;
+            color: MidnightBlue;
+            font-size: 50px;
+            }
+/*Typeface for the "my hero" header*/
+        h1 {font-family: monospace;
+            text-align: center;
+            color: MidnightBlue;
+            }
+/*Makes the links MidnightBlue instead of blue*/
+        a:link {text-decoration: none;
+            color:MidnightBlue
+            }
+/*Makes visited links MidnightBlue instead of purple*/
+        a:visited {text-decoration:none;
+            color:MidnightBlue;
+            }
+/*When the hovering the mouse over a link, an underline appears*/
+        a:hover {
+            text-decoration-line:underline;
+            font-size: 35px;
+            }
