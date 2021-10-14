@@ -12,13 +12,16 @@
 /*Makes the links MidnightBlue instead of blue*/
         a:link {text-decoration: none;
             color:MidnightBlue
+            font-family: monospace;
             }
 /*Makes visited links MidnightBlue instead of purple*/
         a:visited {text-decoration:none;
             color:MidnightBlue;
+            font-family: monospace;
             }
 /*When the hovering the mouse over a link, an underline appears*/
         a:hover {
             text-decoration-line:underline;
-            font-size: 35px;
+            font-size: 125px;
+            font-family: monospace;
             }
